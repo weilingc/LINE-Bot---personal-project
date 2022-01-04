@@ -1,0 +1,6 @@
+google-cloud-storage
+google-cloud-firestore
+flask
+gunicorn
+line-bot-sdk
+google-cloud-logging
